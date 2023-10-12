@@ -1,0 +1,12 @@
+{
+  "name": "getting-started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "optimize.js",
+  "scripts": {
+    "deploy": "serverless deploy --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
